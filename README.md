@@ -38,4 +38,8 @@ The system transmits real-time data streams to a cloud-hosted dashboard, mapping
 
 Developed as part of my Electronics and Communication Engineering portfolio.
 
-![Hardware Prototyping Layout](Screenshot 2026-05-22 at 1.36.06 PM.png)
+## 📊 Live Signal Processing Waveform
+
+Real-time analog photoplethysmography (PPG) signal acquisition displayed on the IDE Serial Plotter, mapping the continuous pulse waveform alongside steady real-time Beats Per Minute (BPM) tracking.
+
+![Physical Hardware System Layout](Screenshot 2026-04-10 at 5.01.28 PM.png)
