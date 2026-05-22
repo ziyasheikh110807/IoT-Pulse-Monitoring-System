@@ -43,3 +43,5 @@ Developed as part of my Electronics and Communication Engineering portfolio.
 Real-time analog photoplethysmography (PPG) signal acquisition displayed on the IDE Serial Plotter, mapping the continuous pulse waveform alongside steady real-time Beats Per Minute (BPM) tracking.
 
 ![Physical Hardware System Layout](Screenshot%202026-05-22%20at%201.36.06%20PM.png)
+
+![ThingSpeak Output Graph](Screenshot%202026-05-22%20at%201.36.47%20PM.png)
