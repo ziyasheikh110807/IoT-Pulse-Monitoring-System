@@ -1,14 +1,15 @@
 IoT-Based Physiological Monitoring & Telemetry System
+
 An end-to-end biomedical IoT application built on the Arduino Giga R1 WiFi architecture designed to capture, process, and stream real-time physiological data to the cloud for remote health analytics.
 
 🛠️ System Architecture & Tech Stack
+
 Hardware: Arduino Giga R1 WiFi, Photoplethysmography (PPG) Heartbeat Sensor, OLED Display Modules
-
 Firmware: Embedded C++ (Arduino IDE)
-
 Cloud/IoT: ThingSpeak REST API Protocol
 
 📊 Core Features
+
 Biometric Signal Processing: Real-time analog-to-digital conversion (ADC) of PPG optical sensor signals to calculate stable Beats Per Minute (BPM).
 
 Edge Visualization: Local, low-latency data rendering on an integrated OLED display for immediate feedback.
@@ -18,6 +19,7 @@ Cloud Telemetry Pipeline: Established a secure client connection to stream calcu
 Data Synchronization: Implemented non-blocking delay parameters to handle stable network sockets and prevent data collision during cloud transmission.
 
 💾 Core Logic Snippet
+
 C++
 // --- Peripheral Initialization Matrix ---
 #define BLUE_LED 5
@@ -31,6 +33,7 @@ unsigned long lastUploadTime = 0;
 
 
 📈 Cloud Telemetry
+
 The system transmits real-time data streams to a cloud-hosted dashboard, mapping physiological metrics onto an analytics platform to track variations and baseline trends over time.
 
 Developed as part of my Electronics and Communication Engineering portfolio.
