@@ -37,3 +37,5 @@ unsigned long lastUploadTime = 0;
 The system transmits real-time data streams to a cloud-hosted dashboard, mapping physiological metrics onto an analytics platform to track variations and baseline trends over time.
 
 Developed as part of my Electronics and Communication Engineering portfolio.
+
+![Hardware Prototyping Layout](Screenshot%202026-04-10%20at%205.01.28%20PM.png)
