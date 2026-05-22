@@ -38,4 +38,4 @@ The system transmits real-time data streams to a cloud-hosted dashboard, mapping
 
 Developed as part of my Electronics and Communication Engineering portfolio.
 
-![Hardware Prototyping Layout](Screenshot%202026-04-10%20at%205.01.28%20PM.png)
+![Hardware Prototyping Layout](Screenshot 2026-05-22 at 1.36.06 PM.png)
